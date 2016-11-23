@@ -31,12 +31,12 @@
 
     {% if page.url == "/" %}
         <body class="landing">
-        {% include banner.html %}
+            {% include banner.html %}
     {% else %}
-        <body>
-            <section id="banner"></section>
+        <body class="navPanel-visible">
     {% endif %}
 
     {% include nav.html %}
 
     <section id="main" class="container">
+
