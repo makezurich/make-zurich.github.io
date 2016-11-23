@@ -23,6 +23,7 @@
         family-fixed:       monospace,
         weight:             200,
         weight-bold:        300,
+        weight-heavy:       700,
     );
 
 // Palette.
@@ -45,16 +46,16 @@
 
         accent1: (
             bg:             #0070ba,
-            fg:             mix(#666, #ffffff, 25%),
+            fg:             mix(#0070ba, #ffffff, 25%),
             fg-bold:        #ffffff,
-            fg-light:       mix(#666, #ffffff, 40%)
+            fg-light:       mix(#0070ba, #ffffff, 40%)
         ),
 
         accent2: (
-            bg:             #e89980,
-            fg:             mix(#e89980, #ffffff, 25%),
+            bg:             #8fb5de,
+            fg:             mix(#8fb5de, #ffffff, 25%),
             fg-bold:        #ffffff,
-            fg-light:       mix(#e89980, #ffffff, 40%)
+            fg-light:       mix(#8fb5de, #ffffff, 40%)
         ),
 
         accent3: (

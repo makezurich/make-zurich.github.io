@@ -1,12 +1,16 @@
         </section>
 
+        {% if page.url == "/" %}
+            {% include cta.html %}
+        {% endif %}
+
         <footer id="footer">
             <ul class="icons">
                 <li><a href="https://twitter.com/makezurich" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
                 <li><a href="https://github.com/make-zurich" class="icon fa-github"><span class="label">Github</span></a></li>
             </ul>
             <ul class="copyright">
-                <li>&copy; Make Zurich. <a href="https://github.com/make-zurich/make-zurich.github.io/blob/master/LICENSE">CC-BY-SA 4.0</a>.</li>
+                <li>&copy; Make Zurich. <a href="https://github.com/make-zurich/make-zurich.github.io/blob/master/LICENSE">CC-BY-SA 4.0</a> - <a href="mailto:info@makezurich.ch">info@makezurich.ch</a></li>
             </ul>
         </footer>
 

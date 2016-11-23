@@ -1,18 +1,25 @@
 <!-- CTA -->
-    <section id="cta">
+<section id="cta">
 
-        <h2>Sign up for beta access</h2>
-        <p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc.</p>
+    <h2>Sign up and save the date</h2>
+    <p>Get in touch with us and we will keep you up to date on all the details very soon!</p>
 
-        <form>
-            <div class="row uniform half collapse-at-2">
-                <div class="8u">
-                    <input type="email" name="email" id="email" placeholder="Email Address" />
-                </div>
-                <div class="4u">
-                    <input type="submit" value="Sign Up" class="fit" />
-                </div>
+    <form method="post" action="https://formspree.io/info@makezurich.ch">
+        <div class="row uniform">
+            <div class="5u 12u(mobilep)">
+                <input type="text" name="name" id="name" value="" placeholder="Name" />
             </div>
-        </form>
+            <div class="5u 12u(mobilep)">
+                <input type="email" name="_replyto" id="email" value="" placeholder="Email" />
+            </div>
+            <div class="2u 12u(mobilep)">
+                <ul class="actions align-center">
+                    <li><input type="submit" value="Sign up" /></li>
+                </ul>
+                <input type="hidden" name="_next" value="thank-you/" />
+                <input type="text" name="_gotcha" style="display:none" />
+            </div>
+        </div>
+    </form>
 
-    </section>
+</section>
