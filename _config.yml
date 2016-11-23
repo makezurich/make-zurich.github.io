@@ -1,9 +1,19 @@
-name: Make Zurich
-description: Make Zurich Civic Tech Hackathon
+# Site settings
+title: Make Zurich 2017
+email: info@makezurich.ch
+description: Make Zurich, Civic Tech and LoRaWAN Hackathon for a better city
 baseurl: ''
-
 url: https://makezurich.ch
-enforce_ssl: makezurich.ch
 
-paginate: 10
+# Logo settings
+logo-image-url:
+font-awesome-icon-logo:
 
+# Social settings
+github_username: make-zurich
+twitter_username: makezurich
+facebook_URL:
+instagram_username:
+
+# Build settings
+markdown: kramdown
