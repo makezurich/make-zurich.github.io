@@ -1,7 +1,7 @@
         </section>
 
-        {% if layout.home_page %}
-            {% include cta.html %}
+        {% if page.cta %}
+            {% include {{page.cta}} %}
         {% endif %}
 
         <footer id="footer">

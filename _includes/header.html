@@ -29,9 +29,9 @@
         <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
     </head>
 
-    {% if layout.home_page %}
+    {% if page.banner %}
         <body class="landing">
-            {% include banner.html %}
+            {% include {{page.banner}} %}
     {% else %}
         <body class="navPanel-visible">
     {% endif %}
