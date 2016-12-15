@@ -1398,6 +1398,20 @@
         }
     }
 
+/* Sponsors */
+
+.sponsors {
+    .row {
+        div {
+            text-align: center;
+        }
+
+        img {
+            margin: 20px 0;
+        }
+    }
+}
+
 /* Wide */
 
     @include breakpoint(wide) {
