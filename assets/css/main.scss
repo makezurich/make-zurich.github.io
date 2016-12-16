@@ -1398,6 +1398,91 @@
         }
     }
 
+/* Challenges */
+
+.challenges {
+    background: #064d7d;
+
+    .challenge {
+        color: white;
+        position: relative;
+        overflow: hidden;
+
+        &:after {
+            content: '';
+            position: absolute;
+            @include vendor('transform', rotate(-35deg));
+            @include vendor('transform-origin', '100% 0%');
+            border-top: 20px solid white;
+            top: 0;
+            right: 0;
+            width: 85%;
+            height: 100%;
+        }
+
+        &.groundwater:after {
+            background: #064d7d url('../images/challenges/water.jpg') no-repeat top right;
+            background-size: 640px 480px;
+        }
+
+        &.nightlife-noise:after {
+            background: #064d7d url('../images/challenges/nightlife-noise.jpg') no-repeat top right;
+            background-size: 640px 480px;
+        }
+
+        &.bike-commuter:after {
+            background: #064d7d url('../images/challenges/bike-commuter.jpg') no-repeat top right;
+            background-size: 640px 480px;
+        }
+
+        &.bike-tracking:after {
+            background: #064d7d url('../images/challenges/bike-tracking.jpg') no-repeat top right;
+            background-size: 640px 480px;
+        }
+
+        &.environmental:after {
+            background: #064d7d url('../images/challenges/environment.jpg') no-repeat top right;
+            background-size: 640px 480px;
+        }
+
+        &.city-gardens:after {
+            background: #064d7d url('../images/challenges/city-gardens.jpg') no-repeat top right;
+            background-size: 640px 480px;
+        }
+
+        &.open:after {
+            background: #064d7d url('../images/challenges/open.jpg') no-repeat top right;
+            background-size: 640px 480px;
+        }
+
+        .card {
+            margin: 3em;
+            position: relative;
+            z-index: 20;
+        }
+
+        h4 {
+            color: white;
+            font-size: 2em;
+            font-weight: _font(weight-light);
+            margin: 0;
+        }
+
+        h5 {
+            color: white;
+            font-size: 2.5em;
+            font-weight: _font(weight-heavy);
+            margin: -0.6em 0 0 0.5em;
+        }
+
+        .description {
+            margin-left: 2.5em;
+            width: 40%;
+            height: 12em;
+        }
+    }
+}
+
 /* Sponsors */
 
 .sponsors {
@@ -1937,5 +2022,28 @@
             #cta {
                 padding: 2.5em 1em 3em 1em;
             }
+
+        /* Challenges */
+
+        .challenges {
+            .challenge {
+                &:after {
+                    display: none;
+                }
+
+                h4 {
+                    font-size: 1.5em;
+                }
+
+                h5 {
+                    font-size: 1.5em;
+                }
+
+                .description {
+                    margin-left: 1em;
+                    width: 90%;
+                }
+            }
+        }
 
     }

@@ -1,0 +1,17 @@
+{
+  "name": "make-zurich-ch",
+  "version": "1.0.0",
+  "description": "A civic tech & LoRaWAN hackathon for a better city",
+  "main": "index.html",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/make-zurich/make-zurich.github.io.git"
+  },
+  "author": "Gonzalo Casas <gonzalocasas@gmail.com>",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/make-zurich/make-zurich.github.io/issues"
+  },
+  "homepage": "https://github.com/make-zurich/make-zurich.github.io#readme"
+}

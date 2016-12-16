@@ -95,6 +95,13 @@
 
             }
 
+        $('.challenge-slider').unslider({
+            arrows: {
+                prev: false,
+                next: false
+            }
+        });
+
     });
 
 })(jQuery);
