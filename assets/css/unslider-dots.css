@@ -1,20 +1,37 @@
+.unslider {
+  position: relative;
+}
+
+.unslider-nav {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 1000;
+}
+
 .unslider-nav ol {
   list-style: none;
   text-align: center;
 }
+
 .unslider-nav ol li {
   display: inline-block;
-  width: 6px;
-  height: 6px;
-  margin: 0 4px;
+  width: 20px;
+  height: 20px;
+  margin: 9px 4px 0 4px;
   background: transparent;
-  border-radius: 5px;
+  border-radius: 50%;
   overflow: hidden;
-  text-indent: -999em;
-  border: 2px solid #fff;
+  text-indent: 0;
+  border: 1px solid #fff;
   cursor: pointer;
+  color: #fff;
+  line-height: 130%;
 }
+
 .unslider-nav ol li.unslider-active {
   background: #fff;
   cursor: default;
+  color: #064d7d;
 }
