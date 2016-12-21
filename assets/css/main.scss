@@ -1497,6 +1497,38 @@
     }
 }
 
+/* Press kit */
+.press-kit {
+    .special {
+        &:hover {
+            background: darken(_palette(bg), 1%);
+        }
+        &.logo-inverted {
+            background: #000;
+
+            &:hover {
+                background: lighten(#000, 20%);
+            }
+        }
+
+        .image {
+            height: 200px;
+            display: block;
+
+            img {
+                padding: 10px 0;
+                max-width: 100%;
+                max-height: 100%;
+                margin: 0 auto;
+            }
+        }
+
+        h3 {
+            margin-top: 20px;
+        }
+    }
+}
+
 /* Wide */
 
     @include breakpoint(wide) {
