@@ -1,35 +1,34 @@
 ---
-title: Guidelines
+title: Richtlinien
 lang: en
 layout: generic_de
 ---
 
 ## Team
 
-A team should consist of at least two and a maximum of eight people.
+Ein Team sollte aus mindestens zwei und maximal acht Personen bestehen.
 
-## Code of Conduct
+## Verhaltensregeln
 
-Short and simple: **Be excellent to each other!**
+Kurz und einfach: **Sei h&ouml;flich zum anderen!**
 
-## License
+## Lizenzen
 
-The following licensing conditions apply to works created at [Make Zurich 2017](https://makezurich.ch):
+F&uuml;r die bei [Make Zurich 2017](https://makezurich.ch) entwickelten Werke gelten folgende Lizenzbedingungen:
 
-  - No transfer of rights: everyone retains the rights to anything he or she has created.
-  - Waiver: No one will exercise any rights of exclusivity with respect to information she/he brings in, even if she/he otherwise could exercise such right of exclusivity under the law.
-  - Openness: all participants are required to submit **code** under a recognised open source license (we suggest [MIT License](https://opensource.org/licenses/MIT)) and **creative works** like text, pictures, music or designs under a creative commons license (we suggest [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
-  - Courtesy: Give credit. Ask if you can, but by default assume to include all those who have somehow contributed to the project.
+  - Keine &Uuml;bertragung von Rechten: Jeder beh&auml;lt die Rechte auf alles, was er oder sie entwickelt hat.
+  - Verzichtserkl&auml;rung: Niemand wird Ausschliesslichkeitsrechte bez&uuml;glich der von ihm eingeholten Informationen aus&uuml;ben, auch wenn er/sie sonst dieses Ausschliesslichkeitsrecht nach dem Gesetz aus&uuml;ben k&ouml;nnte.
+  - Offenheit: Alle Teilnehmer sind verpflichtet, **Code** unter einer anerkannten Open Source Lizenz (wir empfehlen [MIT Lizenz](https://opensource.org/licenses/MIT)) und **kreative Arbeiten** wie Text, Bilder, Musik oder Design unter einer Creative Commons Lizenz (wir empfehlen [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)) einzureichen.
+  - H&ouml;flichkeit: Gib Kredit. Frage wenn du kannst und beziehe alle ein, die in irgendeiner Form zum Projekt beigetragen haben.
 
-## Data
+## Daten
 
-Whenever possible, the teams will work with open data as defined in [The Open Definition](http://opendefinition.org/), or with data that will attain this status shortly.
+Wenn immer m&ouml;glich, arbeiten die Teams mit offenen Daten, wie sie in [The Open Definition](http://opendefinition.org/od/2.0/de/) definiert sind oder mit Daten, die diesen Status in K&uuml;rze erlangen.
 
-We encourage you to publish any data sources created at [Make Zurich 2017](https://makezurich.ch) under an open data license (we suggest [ODbL](http://wiki.openstreetmap.org/wiki/Open_Database_License)).
+Wir empfehlen dir den Quellcode, welcher du am [Make Zurich 2017](https://makezurich.ch) entwickelt hast, unter einer offenen Datenlizenz zu ver&ouml;ffentlichen (wir empfehlen [ODbL](http://wiki.openstreetmap.org/wiki/Open_Database_License)).
 
-## Presentation
+## Pr&auml;sentation
 
-Each team presents their work to the others at the end of the event or, if unable to present, the documentation you provide will be summarised.
-Infrastructure for presentations will be made available.
+Jedes Team pr&auml;sentiert seine Arbeit am Ende der Veranstaltung, wenn das Team nicht in der Lage ist zu pr&auml;sentieren, wird die Dokumentation zusammengefasst. Eine Infrastruktur f&uuml;r die Pr&auml;sentation wird zur Verf&uuml;gung gestellt. 
 
-The presentation may take up to 8 minutes, and is supplemented by a further two minutes for discussion.
+Die Pr&auml;sentation darf bis zu acht Minuten dauern und kann f&uuml;r Diskussion um weitere zwei Minuten ausgedehnt werden.

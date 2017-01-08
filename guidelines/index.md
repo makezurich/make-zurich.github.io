@@ -23,7 +23,7 @@ The following licensing conditions apply to works created at [Make Zurich 2017](
 
 ## Data
 
-Whenever possible, the teams will work with open data as defined in [The Open Definition](http://opendefinition.org/), or with data that will attain this status shortly.
+Whenever possible, the teams will work with open data as defined in [The Open Definition](http://opendefinition.org/od/2.1/en/), or with data that will attain this status shortly.
 
 We encourage you to publish any data sources created at [Make Zurich 2017](https://makezurich.ch) under an open data license (we suggest [ODbL](http://wiki.openstreetmap.org/wiki/Open_Database_License)).
 
