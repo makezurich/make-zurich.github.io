@@ -34,6 +34,8 @@ If you want to bring your own hardware (microcontroller, sensors, etc), designs,
 
 We recommend to use public transport to get to the event. Impact Hub Viadukt is located only a few steps away from [Z&uuml;rich Hardbr&uuml;cke](http://online.fahrplaninfo.zvv.ch/frame_hst3.php?lang=de&hstNr=13029&hstName=) train station, which is heavily connected by the train, tram and bus network.
 
+<img width="100%" src="https://maps.googleapis.com/maps/api/staticmap?center=Viaduktstrasse+93,+8005+Zürich&zoom=14&scale=2&size=600x200&maptype=roadmap&key=AIzaSyDR8Y88GiRSWmZn0heNaNPVhmYkyOpfqjU&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7CImpact+Hub+Viadukt,+Viaduktstrasse+93,+8005+Zürich" alt="Google Map of Viaduktstrasse 93, 8005 Zürich">
+
 #### **How can I contact the organizer with any questions?**
 
 Get in touch with us via email <a href="mailto:info@makezurich.ch">info@makezurich.ch</a> or via twitter <a href="https://twitter.com/makezurich">@makezurich</a>.
