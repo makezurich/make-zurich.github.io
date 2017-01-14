@@ -30,6 +30,10 @@ If you want to bring your own hardware (microcontroller, sensors, etc), designs,
 
 **Yes**, with a tiny caveat. Teams will get to keep the hardware kit they receive, except one specific sensor provided by Keller Druck AG used in the *Groundwater meter challenge* that needs to be returned at the end of the event. All the other hardware is for the team to bring home.
 
+#### **Where can I get in touch with other participants?**
+
+If you haven't done it already, sign up for our [Slack team](https://ttn-ch.herokuapp.com). A large part of communication during the event will happen there!
+
 #### **What are my transportation options for getting to and from the event?**
 
 We recommend to use public transport to get to the event. Impact Hub Viadukt is located only a few steps away from [Z&uuml;rich Hardbr&uuml;cke](http://online.fahrplaninfo.zvv.ch/frame_hst3.php?lang=de&hstNr=13029&hstName=) train station, which is heavily connected by the train, tram and bus network.
