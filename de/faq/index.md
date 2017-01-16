@@ -34,6 +34,10 @@ If you want to bring your own hardware (microcontroller, sensors, etc), designs,
 
 If you haven't done it already, sign up for our [Slack team](https://ttn-ch.herokuapp.com). A large part of communication during the event will happen there!
 
+#### **What is the exact schedule?**
+
+Check the [schedule here](/de/schedule), we will keep updating it with more details in the next few days.
+
 #### **What are my transportation options for getting to and from the event?**
 
 We recommend to use public transport to get to the event. Impact Hub Viadukt is located only a few steps away from [Z&uuml;rich Hardbr&uuml;cke](http://online.fahrplaninfo.zvv.ch/frame_hst3.php?lang=de&hstNr=13029&hstName=) train station, which is heavily connected by the train, tram and bus network.
