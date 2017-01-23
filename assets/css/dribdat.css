@@ -24,6 +24,10 @@ nav .section-header .section-header-logo img {
     height: 110px;
 }
 
+.container.with-event {
+    margin-top: 190px;
+}
+
 @media (min-width: 768px) {
     /* Hide DRIBDAT logo on Desktops */
     .navbar-header { display: none; }
