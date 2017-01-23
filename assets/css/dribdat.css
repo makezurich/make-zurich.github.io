@@ -11,14 +11,29 @@ body {
     background-position: 50% 38%;
 }
 
-nav .section-header .section-header-logo {
-    float: right;
-    margin: 0;
+.section.section-centered.section-header {
+    text-align: center;
 }
 
-.navbar-header { display:none; }
+nav .section-header .section-header-logo {
+    float: none;
+    margin: 2em;
+}
 
-.section-header-content { visibility: hidden; }
+nav .section-header .section-header-logo img {
+    height: 110px;
+}
+
+.container.with-event {
+    margin-top: 190px;
+}
+
+@media (min-width: 768px) {
+    /* Hide DRIBDAT logo on Desktops */
+    .navbar-header { display: none; }
+}
+
+.section-header-content { display:none; }
 
 .navbar-ex1-collapse {
     background-color: rgba(2,57,119,0.8);
