@@ -19,8 +19,10 @@ at **Impact Hub Viadukt, Event Space Bogen D**
 at **MechArtLab**
 <br/><a href="https://goo.gl/maps/NcAzJ6os82D2" target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i> how do I get there?</a>
 
+ - **16:00** Opens
+ - **22:00** Closes
+
 The lab will be open in the afternoons for everyone who needs a place to hack on their projects or simply wants to chat about their progress.
-We will publish the detailed schedule for the open lab week very soon.
 
 ## Hackathon: from 3rd February to Saturday, 4th February
 
