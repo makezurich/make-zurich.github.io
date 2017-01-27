@@ -22,6 +22,8 @@ This is a simple guide to get started with the content of the hardware kits!
     * [DFR0055 Plugable terminal adapter](https://www.dfrobot.com/wiki/index.php/Terminal_sensor_adapter_V2.0_(SKU:DFR0055))
     * [FIT0011 digital sensor connection line DS18B20](https://www.dfrobot.com/wiki/index.php/Digital_Sensor_Cable_For_Arduino_(SKU:FIT0011))
 
+> NOTE: Please read the printed manual for the pressure sensors carefully for **voltage** and **connectivity**
+
 ### Basic resources
 
  * LoRaWAN & The Things Network:
