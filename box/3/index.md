@@ -33,3 +33,4 @@ This is a simple guide to get started with the content of the hardware kits!
     * [How to build your first TTN node](https://www.thethingsnetwork.org/forum/t/how-to-build-your-first-ttn-node-arduino-rn2483/1574)
     * [Building a TTN LoRaWAN node](https://www.vdsar.net/build-ttn-lora-node/)
 
+> **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them

@@ -48,3 +48,4 @@ Provided by Umwelt- und Gesundheitsschutz and EMPA:
  * [Vertical temperature profile in Zurich area](http://awel.meteotest.ch/regionprofile/)
  * [Temperature profile](https://zueriluft.ch/makezurich/tprofil.csv)
 
+> **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them

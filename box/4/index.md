@@ -43,3 +43,5 @@ Available during business hours during open lab week via chat: [m-way.ch](http:/
 ### ublox Support
 
 Available on-site during kick-off.
+
+> **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them
