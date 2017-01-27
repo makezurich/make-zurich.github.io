@@ -37,6 +37,8 @@ This is a simple guide to get started with the content of the hardware kits!
 
 ### Keller Druck Support
 
+Available during business hours.
+
  * Via phone hotline: +41 052 235 2525: Denys Schellenberg / Daniel Hofer / Silvan Achtnich / Marcel Gautschi
  * Direct:
     * Daniel Hofer – Produktmanager: Schwerpunkt D-Line, d.hofer@keller-druck.ch, +41 79 602 0424
