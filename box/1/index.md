@@ -46,6 +46,6 @@ Available during business hours.
     * Daniel Hofer – Produktmanager: Schwerpunkt D-Line, d.hofer@keller-druck.ch, +41 79 602 0424
     * Silvan Achtnicht – Entwickler: Schwerpunkt X-Line, s.achtnich@keller-druck.ch, +41 76 565 5254
 
- * Sensor test equipment available at the MechArtLab by Urs
+ * Sensor test equipment available at the MechArtLab (6th Floor) by Urs
 
 > **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them

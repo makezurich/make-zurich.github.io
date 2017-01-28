@@ -16,7 +16,7 @@ at **Impact Hub Viadukt, Event Space Bogen D**
 
 ## Open Lab Week: from 28th January to 2nd February
 
-at **MechArtLab**
+at **MechArtLab (6th floor)**
 <br/><a href="https://goo.gl/maps/NcAzJ6os82D2" target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i> how do I get there?</a>
 
  - **16:00** Opens
