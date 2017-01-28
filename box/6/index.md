@@ -23,7 +23,8 @@ This is a simple guide to get started with the content of the hardware kits!
  * BH1750 Luminosity sensor [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/sensor/light/bh1750fvi-e.pdf)
  * Wind sensor [Datasheet](http://www.ekt2.com/pdf/412_CH_WIND_SENSOR.pdf)
  * Xiaomi Flower Monitor [Basic info](http://img.banggood.com/file/products/20160715033032How%20to%20Use%20Flower%20Plant%20Monitor.pdf), [Python data reader, reverse engineered protocol](https://github.com/open-homeautomation/miflora)
- * CC2540 BLE module
+ * CC2540 BLE module [Datasheet](http://www.ti.com/product/CC2541)
+ * DC-DC Step Up Booster [Details](http://www.icstation.com/icstation-mt3608-step-booster-power-apply-module-p-3448.html)
 
 ### Basic resources
 
