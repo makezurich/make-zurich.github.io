@@ -12,6 +12,7 @@ This is a simple guide to get started with the content of the hardware kits!
 
  * Arduino Pro Mini + FTDI
  * Microchip RN2483 LoRaWAN modem [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/50002346B.pdf)
+ * Breadboard power supply [Datasheet](https://hobbyking.com/media/file/403178644X1017066X57.pdf), [How to use](https://www.sunfounder.com/wiki/index.php?title=How_to_use_YwRobot_Power_Supply_Properly)
 
 ### Sensors
 
