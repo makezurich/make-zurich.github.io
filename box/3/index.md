@@ -35,4 +35,9 @@ This is a simple guide to get started with the content of the hardware kits!
     * [How to build your first TTN node](https://www.thethingsnetwork.org/forum/t/how-to-build-your-first-ttn-node-arduino-rn2483/1574)
     * [Building a TTN LoRaWAN node](https://www.vdsar.net/build-ttn-lora-node/)
 
+### Additional resources
+
+ * [Open Data, Hourly pedestrian and bicycle counters](https://data.stadt-zuerich.ch/dataset/luftqualitaet-stunden-aktuelle-messungen)
+ * [Conducting Bicycle and Pedestrian Counts: Los Angeles County Manual](http://media.metro.net/projects_studies/call_projects/images/metroscag_bikepedcounttrainingmanual.pdf)
+ 
 > **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them
