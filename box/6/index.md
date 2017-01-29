@@ -15,6 +15,11 @@ This is a simple guide to get started with the content of the hardware kits!
  * Microchip RN2483 LoRaWAN modem [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/50002346B.pdf)
  * Breadboard power supply [Datasheet](https://hobbyking.com/media/file/403178644X1017066X57.pdf), [How to use](https://www.sunfounder.com/wiki/index.php?title=How_to_use_YwRobot_Power_Supply_Properly)
 
+![Arduino Pro Mini pinout](../../assets/images/arduino-pinout.png "Arduino Pro Mini pinout")
+![How to connect](../../assets/images/how-to-connect.jpg "How to connect")
+
+Tutorials and lots of info specific for this event is popping up in [rac2030's github repo](https://github.com/rac2030/MakeZurich/wiki#tutorials-or-logs).
+
 ### Sensors
 
  * UV IR Visible Sensor SI1145 [Breakout info](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-si1145-breakout-board-uv-ir-visible-sensor.pdf), [Datasheet](https://cdn-shop.adafruit.com/datasheets/Si1145-46-47.pdf)
