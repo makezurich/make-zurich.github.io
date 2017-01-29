@@ -42,3 +42,4 @@ This is a simple guide to get started with the content of the hardware kits!
  * [Bike counters for Berlin](http://www.stadtentwicklung.berlin.de/verkehr/lenkung/vlb/de/radzaehlungen.shtml)
 
 > **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them
+> **NOTE:** Always have the antenna connected when powering up your LoRaWAN module.

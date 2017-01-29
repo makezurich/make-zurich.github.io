@@ -51,3 +51,4 @@ Provided by Umwelt- und Gesundheitsschutz and EMPA:
  * [Temperature profile](https://zueriluft.ch/makezurich/tprofil.csv)
 
 > **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them
+> **NOTE:** Always have the antenna connected when powering up your LoRaWAN module.

@@ -47,3 +47,4 @@ Available during business hours during open lab week via chat: [m-way.ch](http:/
 Available on-site during kick-off.
 
 > **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them
+> **NOTE:** Always have the antenna connected when powering up your LoRaWAN module.

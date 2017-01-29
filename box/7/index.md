@@ -43,3 +43,4 @@ This is a simple guide to get started with the content of the hardware kits!
 Available on-site during kick-off.
 
 > **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them
+> **NOTE:** Always have the antenna connected when powering up your LoRaWAN module.
