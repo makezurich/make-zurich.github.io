@@ -21,7 +21,7 @@ This is a simple guide to get started with the content of the hardware kits!
  * Sensirion SHT21 temperature/humidity (by Decentlab) [Datasheet](http://staging1.unep.org/uneplive/media/docs/air_quality/aqm_document_v1/Blue%20Print/Components/Microcomputer%20and%20sensors/D.%20Supporting%20Sensors/D.1%20Temp%20&%20Humidity/Datasheet%20SHT21.pdf)
  * BME280 Temperature/humidity/pressure [Breakout info](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout.pdf), [Datasheet](https://cdn-shop.adafruit.com/datasheets/BST-BME280_DS001-10.pdf)
  * MQ-x gas sensors [Product information](http://playground.arduino.cc/Main/MQGasSensors)
- * Laser PM2.5 Sensor SDS011 [Datasheet](http://inovafitness.com/software/SDS011%20laser%20PM2.5%20sensor%20specification-V1.3.pdf)
+ * Laser PM2.5 Sensor SDS011 [Datasheet](http://inovafitness.com/software/SDS011%20laser%20PM2.5%20sensor%20specification-V1.3.pdf), [Javascript library](https://github.com/chatch/nova-sds011), [Windows Drivers](http://inovafitness.com/en/download/Drive-Software-8.html)
  * 5-way flame sensor [Product description](http://hobbydistrict.com/en/product/5-way-flame-sensor-module/)
 
 
