@@ -55,5 +55,5 @@ Available during business hours.
 
  * Sensor test equipment available at the MechArtLab (6th Floor) by Urs
 
-> **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them
+> **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them.<br>
 > **NOTE:** Always have the antenna connected when powering up your LoRaWAN module.

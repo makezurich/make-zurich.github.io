@@ -46,5 +46,5 @@ Tutorials and lots of info specific for this event is popping up in [rac2030's g
  * [Conducting Bicycle and Pedestrian Counts: Los Angeles County Manual](http://media.metro.net/projects_studies/call_projects/images/metroscag_bikepedcounttrainingmanual.pdf)
  * [Bike counters for Berlin](http://www.stadtentwicklung.berlin.de/verkehr/lenkung/vlb/de/radzaehlungen.shtml)
 
-> **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them
+> **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them.<br>
 > **NOTE:** Always have the antenna connected when powering up your LoRaWAN module.

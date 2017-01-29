@@ -55,5 +55,5 @@ Provided by Umwelt- und Gesundheitsschutz and EMPA:
  * [Vertical temperature profile in Zurich area](http://awel.meteotest.ch/regionprofile/)
  * [Temperature profile](https://zueriluft.ch/makezurich/tprofil.csv)
 
-> **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them
+> **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them.<br>
 > **NOTE:** Always have the antenna connected when powering up your LoRaWAN module.

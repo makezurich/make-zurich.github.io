@@ -45,5 +45,5 @@ Tutorials and lots of info specific for this event is popping up in [rac2030's g
     * [How to build your first TTN node](https://www.thethingsnetwork.org/forum/t/how-to-build-your-first-ttn-node-arduino-rn2483/1574)
     * [Building a TTN LoRaWAN node](https://www.vdsar.net/build-ttn-lora-node/)
 
-> **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them
+> **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them.<br>
 > **NOTE:** Always have the antenna connected when powering up your LoRaWAN module.
