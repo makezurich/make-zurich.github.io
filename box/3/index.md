@@ -39,5 +39,6 @@ This is a simple guide to get started with the content of the hardware kits!
 
  * [Open Data, Hourly pedestrian and bicycle counters](https://data.stadt-zuerich.ch/dataset/verkehrszaehlungen-werte-fussgaenger-velo)
  * [Conducting Bicycle and Pedestrian Counts: Los Angeles County Manual](http://media.metro.net/projects_studies/call_projects/images/metroscag_bikepedcounttrainingmanual.pdf)
- 
+ * [Bike counters for Berlin](http://www.stadtentwicklung.berlin.de/verkehr/lenkung/vlb/de/radzaehlungen.shtml)
+
 > **NOTE:** Please keep in mind the voltage differences between the microcontroller and the different sensors when connecting them
