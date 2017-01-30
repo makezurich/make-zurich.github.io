@@ -4,6 +4,10 @@ lang: en
 layout: generic
 ---
 
+#### **Help! How do I get started with my hardware kit?**
+
+Check out the [Getting Started guide](/start/).
+
 #### **I have never been to a hackathon before, can I still attend?**
 
 Of course! Check out [this great post](https://forum.schoolofdata.ch/t/make-the-most-of-hackathon-season/) by [Oleg](https://datalets.ch/) about getting started with hackathons.
