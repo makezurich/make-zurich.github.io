@@ -4,7 +4,7 @@ lang: en
 layout: generic
 ---
 
-Wondering where to start? **Here!** 
+Wondering where to start? **Here!**
 
 You can start with the [Absolute Basics: Step-by-step guide](basics) here.
 
@@ -19,4 +19,6 @@ You can start with the [Absolute Basics: Step-by-step guide](basics) here.
 
 **Have questions?** Check [Slack](https://ttn-ch.slack.com/) (sign up here [here](https://ttn-ch.herokuapp.com/))
 
-Also check the [progress of other teams in the hackathon!](https://now.makezurich.ch/event/1)
+You can also follow the [progress of teams in the hackathon](https://now.makezurich.ch/event/1):
+
+<iframe src="http://now.makezurich.ch/event/1?embed=1" style="width:100%;height:320px;background:transparent;border:none;overflow:hidden" scrolling="no"></iframe>
