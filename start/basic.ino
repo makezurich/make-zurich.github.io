@@ -1,4 +1,4 @@
-#include <rn2483.h>
+#include <rn2xx3.h>
 #include <SoftwareSerial.h>
 
 SoftwareSerial mySerial(7, 8); // RX, TX
@@ -9,7 +9,7 @@ const char *devAddr = "00000000";
 const char *nwkSKey = "00000000000000000000000000000000";
 const char *appSKey = "00000000000000000000000000000000";
 
-rn2483 myLora(mySerial);
+rn2xx3 myLora(mySerial);
 
 // Setup routine runs once when you press reset
 void setup() {
@@ -21,19 +21,19 @@ void setup() {
   mySerial.begin(9600);
   Serial.println("Startup");
 
-  // Reset rn2483
+  // Reset rn2xx3
   pinMode(RST, OUTPUT);
   digitalWrite(RST, HIGH);
   digitalWrite(RST, LOW);
   delay(500);
   digitalWrite(RST, HIGH);
 
-  // Initialise the rn2483 module
+  // Initialise the rn2xx3 module
   myLora.autobaud();
 
   Serial.println("When using OTAA, register this DevEUI: ");
   Serial.println(myLora.hweui());
-  Serial.print("RN2483 version number: ");
+  Serial.print("Microchip RN2xx3 version number: ");
   Serial.println(myLora.sysver());
 
   myLora.initABP(devAddr, appSKey, nwkSKey);
