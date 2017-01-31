@@ -114,5 +114,5 @@ Available during business hours.
 ## Are you stuck?
 
  1. Ask on our [Slack team](https://ttn-ch.slack.com/)! (sign up here [here](https://ttn-ch.herokuapp.com/)).
- 1. Join us at the MechArtLab everyday between 16:00 and 22:00.
  1. Check [this cool wiki being developed by Hackathon participants](https://github.com/rac2030/MakeZurich/wiki).
+ 1. Join us at the MechArtLab everyday between 16:00 and 22:00.
