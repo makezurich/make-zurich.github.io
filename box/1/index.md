@@ -63,6 +63,8 @@ GND                  | GND
  1. **Cry tears of joy!**
 
 
+<a name="whats-in-the-box"></a>
+
 ## What's in the box?
 
 ### Base platform
