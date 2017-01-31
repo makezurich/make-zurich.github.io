@@ -14,7 +14,8 @@ layout: generic
     1. Select board: `Tools` > `Board: ..` > `Arduino Pro or Pro Mini`
     1. Select board variant: `Tools` > `Processor: ..` > `ATMega328 (3.3V, 8 Mhz)`
     1. Select port: `Tools` > `Port` > (USB port name)
-    1. Install RN2483 library: [Follow instructions here](https://github.com/jpmeijers/RN2483-Arduino-Library).
+    1. Install `RN2483` library: [Follow instructions here](https://github.com/jpmeijers/RN2483-Arduino-Library).
+    1. Install `SoftwareSerial` library from the Library Manager.
 
 #### **Getting the hardware ready**
 
