@@ -75,7 +75,7 @@ GND                  | GND
  * Microchip RN2483 LoRaWAN modem [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/50002346B.pdf)
  * Breadboard power supply [Datasheet](https://hobbyking.com/media/file/403178644X1017066X57.pdf), [How to use](https://www.sunfounder.com/wiki/index.php?title=How_to_use_YwRobot_Power_Supply_Properly)
 
-[![Arduino Pro Mini pinout](../../assets/images/arduino-pinout.png "Arduino Pro Mini pinout")](https://i.stack.imgur.com/oOtkU.png)
+[![Arduino Pro Mini pinout](../../assets/images/arduino-pinout.png "Arduino Pro Mini pinout")](../../assets/images/arduino-pinout-large.png)
 
 ### Sensors
 
