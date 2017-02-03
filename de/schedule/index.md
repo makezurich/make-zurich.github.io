@@ -13,6 +13,7 @@ at **Impact Hub Viadukt, Event Space Bogen D**
  - **09:00** Open doors
  - **10:00** Pitch your project, find allies for your team! No slides allowed!
  - **10:30** Session: Intro to Azure IoT by [Microsoft](https://azure.microsoft.com/en-us/services/iot-hub/)
+ - **18:30** 🍕 Pizza!
  - **19:00** Short session with [Wienke Giezman](https://twitter.com/wienke)
  
 ### Saturday
