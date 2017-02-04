@@ -17,7 +17,7 @@ at **Impact Hub Viadukt, Event Space Bogen D**
  - **19:00** Short session with [Wienke Giezman](https://twitter.com/wienke)
 
 ### Saturday
- - **10:00** Session: Intro to Open Data by [School of Data CH](http://schoolofdata.ch)
+ - **10:30** Session: Intro to Open Data by [School of Data CH](http://schoolofdata.ch)
  - **15:30** 🚀 Final submission time!!
  - **16:00** Project presentations
  - **18:00** 🍻 🍸
