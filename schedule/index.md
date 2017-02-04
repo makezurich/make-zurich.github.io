@@ -15,9 +15,9 @@ at **Impact Hub Viadukt, Event Space Bogen D**
  - **10:30** Session: Intro to Azure IoT by [Microsoft](https://azure.microsoft.com/en-us/services/iot-hub/)
  - **18:30** 🍕 Pizza!
  - **19:00** Short session with [Wienke Giezman](https://twitter.com/wienke)
- 
+
 ### Saturday
- - **10:00** Open Data Crash Course by [OpenData.ch](https://opendata.ch/)
+ - **10:00** Session: Intro to Open Data by [School of Data CH](http://schoolofdata.ch)
  - **15:30** 🚀 Final submission time!!
  - **16:00** Project presentations
  - **18:00** 🍻 🍸
@@ -46,4 +46,3 @@ at **MechArtLab (6th floor)**
  - **22:00** Closes
 
 The lab will be open in the afternoons for everyone who needs a place to hack on their projects or simply wants to chat about their progress.
-
