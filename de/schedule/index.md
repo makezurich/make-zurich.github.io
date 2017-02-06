@@ -4,29 +4,6 @@ lang: de
 layout: generic
 ---
 
-## Hackathon: 3rd February-4th February
-
-at **Impact Hub Viadukt, Event Space Bogen D**
-<br><a href="https://goo.gl/maps/CpsRggdwmUy" target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i> how do I get there?</a>
-
-### Friday
- - **09:00** Open doors
- - **10:00** Pitch your project, find allies for your team! No slides allowed!
- - **10:30** Session: Intro to Azure IoT by [Microsoft](https://azure.microsoft.com/en-us/services/iot-hub/)
- - **18:30** 🍕 Pizza!
- - **19:00** Short session with [Wienke Giezman](https://twitter.com/wienke)
-
-### Saturday
- - **10:30** Session: Intro to Open Data by [School of Data CH](http://schoolofdata.ch)
- - **15:30** 🚀 Final submission time!!
- - **16:00** Project presentations
- - **18:00** 🍻 🍸
- - **19:00** End-Of-Event
-
-----
-
-### Previous dates
-
 #### ✅ Kick-off: Friday, 27th January
 
 at **Impact Hub Viadukt, Event Space Bogen D**
@@ -46,3 +23,23 @@ at **MechArtLab (6th floor)**
  - **22:00** Closes
 
 The lab will be open in the afternoons for everyone who needs a place to hack on their projects or simply wants to chat about their progress.
+
+
+## ✅ Hackathon: 3rd February-4th February
+
+at **Impact Hub Viadukt, Event Space Bogen D**
+<br><a href="https://goo.gl/maps/CpsRggdwmUy" target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i> how do I get there?</a>
+
+### Friday
+ - **09:00** Open doors
+ - **10:00** Pitch your project, find allies for your team! No slides allowed!
+ - **10:30** Session: Intro to Azure IoT by [Microsoft](https://azure.microsoft.com/en-us/services/iot-hub/)
+ - **18:30** 🍕 Pizza!
+ - **19:00** Short session with [Wienke Giezman](https://twitter.com/wienke)
+
+### Saturday
+ - **10:30** Session: Intro to Open Data by [School of Data CH](http://schoolofdata.ch)
+ - **15:30** 🚀 Final submission time!!
+ - **16:00** Project presentations
+ - **18:00** 🍻 🍸
+ - **19:00** End-Of-Event
