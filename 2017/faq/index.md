@@ -1,8 +1,12 @@
 ---
 title: FAQ
 lang: en
-layout: generic_de
+layout: generic
 ---
+
+#### **Help! How do I get started with my hardware kit?**
+
+Check out the [Getting Started guide](../start/).
 
 #### **I have never been to a hackathon before, can I still attend?**
 
@@ -28,7 +32,7 @@ If you want to bring your own hardware (microcontroller, sensors, etc), designs,
 
 #### **Do we get to keep the hardware provided?**
 
-**Yes**.
+**Yes**, with a tiny caveat. Teams will get to keep the hardware kit they receive, except one specific sensor provided by Keller Druck AG used in the *Groundwater meter challenge* that needs to be returned at the end of the event. All the other hardware is for the team to bring home.
 
 #### **Where can I get in touch with other participants?**
 
@@ -36,11 +40,13 @@ If you haven't done it already, sign up for our [Slack team](https://ttn-ch.hero
 
 #### **What is the exact schedule?**
 
-It will be announced soon.
+Check the [schedule here](../schedule), we will keep updating it with more details in the next few days.
 
 #### **What are my transportation options for getting to and from the event?**
 
-We recommend to use public transport to get to the event. Unterwerk Selnau is located only a few steps away from several stations, which are heavily connected by the train, tram and bus network.
+We recommend to use public transport to get to the event. Impact Hub Viadukt is located only a few steps away from [Z&uuml;rich Hardbr&uuml;cke](http://online.fahrplaninfo.zvv.ch/frame_hst3.php?lang=de&hstNr=13029&hstName=) train station, which is heavily connected by the train, tram and bus network.
+
+<img width="100%" src="https://maps.googleapis.com/maps/api/staticmap?center=Viaduktstrasse+93,+8005+Zürich&zoom=14&scale=2&size=600x200&maptype=roadmap&key=AIzaSyDR8Y88GiRSWmZn0heNaNPVhmYkyOpfqjU&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7CImpact+Hub+Viadukt,+Viaduktstrasse+93,+8005+Zürich" alt="Google Map of Viaduktstrasse 93, 8005 Zürich">
 
 #### **How can I contact the organizer with any questions?**
 

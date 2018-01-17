@@ -1403,6 +1403,12 @@
         }
     }
 
+    .primary-logo {
+        img {
+            padding: 2em 2em;
+        }
+    }
+
 /* Challenges */
 
 .challenges {
@@ -2052,6 +2058,7 @@
                         margin-top: 0;
                     }
                 }
+
             }
 
         /* CTA */
@@ -2059,6 +2066,12 @@
             #cta {
                 padding: 2.5em 1em 3em 1em;
             }
+
+        .primary-logo {
+            img {
+                padding: 0 2em;
+            }
+        }
 
         /* Challenges */
 
