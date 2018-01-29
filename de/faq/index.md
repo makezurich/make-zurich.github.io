@@ -40,7 +40,7 @@ It will be announced soon.
 
 #### **What are my transportation options for getting to and from the event?**
 
-We recommend to use public transport to get to the event. Unterwerk Selnau is located only a few steps away from several stations, which are heavily connected by the train, tram and bus network.
+We recommend to use public transport to get to the event. Kraftwerk is located only a few steps away from several stations, which are heavily connected by the train, tram and bus network.
 
 #### **How can I contact the organizer with any questions?**
 
