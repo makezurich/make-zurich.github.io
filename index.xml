@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Make Zurich Vol. II</title>
+    <link>https://makezurich.ch/</link>
+    <description>Recent content on Make Zurich Vol. II</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://makezurich.ch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://makezurich.ch/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://makezurich.ch/about/</guid>
+      <description>Do I have to be a &amp;ldquo;hacker&amp;rdquo; to join? No! Everyone is welcome to join!
+ Hacking is creative problem solving. It does not have to involve technology. It&amp;rsquo;s very beginner friendly.  But I&amp;rsquo;m really a complete beginner. Can I still come? Of course! Check out this great post by Oleg about getting started with hackathons.
+The greater the diversity of backgrounds and skills, the more awesome the solutions will be!</description>
+    </item>
+    
+    <item>
+      <title>Register</title>
+      <link>https://makezurich.ch/register/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://makezurich.ch/register/</guid>
+      <description>Ready to join for a great time working together on creative solutions to our city&amp;rsquo;s problems? Register today and be part of Make Zurich Vol. II!
+First time at a hackathon? No worries! Everyone is welcome! Check out our FAQ
+The registration is totally free.</description>
+    </item>
+    
+    <item>
+      <title>Guidelines</title>
+      <link>https://makezurich.ch/guidelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://makezurich.ch/guidelines/</guid>
+      <description>Team A team should consist of at least two and a maximum of eight people.
+Code of Conduct Short and simple: Be excellent to each other!
+License The following licensing conditions apply to works created at Make Zurich Vol. II:
+ No transfer of rights: everyone retains the rights to anything they have created. Waiver: No one will exercise any rights of exclusivity with respect to information they bring in, even if otherwise could exercise such right of exclusivity under the law.</description>
+    </item>
+    
+    <item>
+      <title>Press kit</title>
+      <link>https://makezurich.ch/press-kit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://makezurich.ch/press-kit/</guid>
+      <description>A collection of high res &amp;amp; vector resources for media usage.
+ Dominant color: Züriblau, CMYK (Euroskala) 100C/44M/0Y/0K Font family: Comfortaa (Google Fonts)  </description>
+    </item>
+    
+    <item>
+      <title>Archive 2017</title>
+      <link>https://makezurich.ch/2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://makezurich.ch/2017/</guid>
+      <description>&lt;p&gt;Between January 27th and February 4th 2017, Zürich was the stage of the first community-organized hackathon around the topic of civic technologies, and in particular, The Things Network currently operated in the city.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
