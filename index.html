@@ -35,7 +35,7 @@
 <link rel="shortcut icon" href="/images/icons/favicon-32x32.png" type="image/x-icon">
 <meta name="msapplication-TileImage" content="/images/icons/ms-icon-144x144.png">
 
-  <meta name="generator" content="Hugo 0.37.1" />
+  <meta name="generator" content="Hugo 0.41" />
 
   <link rel="manifest" href="/manifest.json">
   <link rel="canonical" href="https://makezurich.ch/">
@@ -984,7 +984,7 @@ by Stadt Zürich and Open Network Infrastructure Association.
       Check out the <a href="https://github.com/open-network-infrastructure/hugo-hackatheme" target="_blank">template &amp; guide</a>.
     </p>
 
-    &copy; Make Zürich Vol. II, <a href="https://github.com/make-zurich/make-zurich.github.io/blob/master/LICENSE" target="_blank">CC-BY-SA 4.0</a>
+    &copy; Make Zürich Vol. II, <a href="https://github.com/make-zurich/website/blob/master/LICENSE" target="_blank">CC-BY-SA 4.0</a>
     
   </div>
 
@@ -1080,9 +1080,13 @@ by Stadt Zürich and Open Network Infrastructure Association.
 
   
 <script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-166167-5', 'auto');
-ga('send', 'pageview');
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-166167-5', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
 <script async src='//www.google-analytics.com/analytics.js'></script>
 
